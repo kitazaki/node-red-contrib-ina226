@@ -29,5 +29,5 @@ npm install node-red-contrib-ina226
 
 I2Cアドレス(デフォルトは0x40)とシャント抵抗値(ina226は外出し、ina260は2mΩを内包)を設定できます。
 
-[example flow](https://github.com/kitazaki/node-red-contrib-ina226/raw/master/flow_example.png)
+![example flow](https://github.com/kitazaki/node-red-contrib-ina226/raw/master/flow_example.png)
 
