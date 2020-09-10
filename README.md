@@ -22,7 +22,7 @@ ina226, ina260モジュール向けNode-REDノードです。
 このノードはina226ノードモジュールを使用しています。
 
 ```bash
-npm install node-red-contrib-ina226
+npm install node-red-contrib-ina226-sensor
 ```
 
 電圧値(V)、電流値(A)、電力値(W)の情報をJSONフォーマットで出力します。
