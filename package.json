@@ -24,7 +24,7 @@
     "ina226": "^2.0.0"
   },
   "author": "kitazaki",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/kitazaki/node-red-contrib-ina226/issues"
   },
